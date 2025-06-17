@@ -46,13 +46,13 @@ Open to freelance projects, IT tasks, and cooperation. Glad to have a profession
 
 | Soft Skills |  |  |
 |--------|--------|------------|
-|  Adaptability | I handle changes well, though I need a bit of time to adjust. |
-|  Communication | I communicate easily and naturally, with humor when appropriate; I value genuine, live interaction. |
-|  Initiative | I notice opportunities for improvement and suggest ideas without being pushy. |
-|  Receiving Criticism | Not always pleasant, but I analyze it and extract what’s useful. |
-|  Responsibility and Self-Organization | I put in my best effort to meet deadlines; chaos happens, but I have a system. |
-|  Teamwork | Comfortable working in a team, especially if colleagues are supportive; solo work feels calmer. |
-|  Motivation | I’m driven by interesting tasks, fair pay, and recognition; the balance depends on the situation. |
+|  Adaptability | I handle changes well, though I need a bit of time to adjust. 
+|  Communication | I communicate easily and naturally, with humor when appropriate; I value genuine, live interaction. 
+|  Initiative | I notice opportunities for improvement and suggest ideas without being pushy. 
+|  Receiving Criticism | Not always pleasant, but I analyze it and extract what’s useful. 
+|  Responsibility and Self-Organization | I put in my best effort to meet deadlines; chaos happens, but I have a system. 
+|  Teamwork | Comfortable working in a team, especially if colleagues are supportive; solo work feels calmer. 
+|  Motivation | I’m driven by interesting tasks, fair pay, and recognition; the balance depends on the situation. 
 
 
 ---
@@ -78,13 +78,13 @@ Open to freelance projects, IT tasks, and cooperation. Glad to have a profession
 
 | |  |  |
 |--------|--------|------------|
-| Email : | senchi.web@gmail.com |  |
-| Discord work talk : | https://discord.gg/WXwBmnyM |  |
-| Discord friendly chat : | https://discord.gg/3hPC6FAU  |  | 
-| Slack work talk : | https://app.slack.com/huddle/T091JLF58AG/C091JLF9WUC  |  | 
-| Slack friendly chat : | https://app.slack.com/huddle/T091JLF58AG/C091B285BDZ   |  | 
-| Linkedin : | https://www.linkedin.com/in/artem-python  |  | 
-| GitHub : | https://github.com/ArtemKondratyuk  |  | 
+| Email : | senchi.web@gmail.com |  
+| Discord work talk : | https://discord.gg/WXwBmnyM   
+| Discord friendly chat : | https://discord.gg/3hPC6FAU     
+| Slack work talk : | https://app.slack.com/huddle/T091JLF58AG/C091JLF9WUC     
+| Slack friendly chat : | https://app.slack.com/huddle/T091JLF58AG/C091B285BDZ     
+| Linkedin : | https://www.linkedin.com/in/artem-python    
+| GitHub : | https://github.com/ArtemKondratyuk   
 
 
 ---
@@ -105,11 +105,11 @@ Any amount is a +1 to your karma and a huge help to me!
 
 | Currency | Address |  |
 |---------|---------|---------|
-| ![BTC](https://img.shields.io/badge/-BTC(Bitcoin)-333?style=flat&logo=bitcoin) | ` bc1q6mrwzger8x6u83360syh4wgtrt5kpxthtunck0` | 
-| ![ETH](https://img.shields.io/badge/-ETH(Ethereum)-333?style=flat&logo=ethereum) | `0xbFdFA9fa584267ae5EE23dbB8b20652cE40F30c0` | 
-| ![USDT](https://img.shields.io/badge/-USDT(TRC20)-333?style=flat&logo=tether) | `TM6g778V53efNZ8zdoruiGaoF4viGVyYDt` | 
-| ![SOL](https://img.shields.io/badge/-SOL(Solana)-333?style=flat&logo=solana) | `51wMQPkQjXPXdnsH1NXKnqC3V4MD47P6Xi3cM8eNYm6k` | 
-| ![TON](https://img.shields.io/badge/-TON(TonCoin)-333?style=flat&logo=ton) | `UQC9G9Bm1Zc9vLavdNkiKYg18gSObk9atRv244CxFRAjPfwb` | 
+| ![BTC](https://img.shields.io/badge/-BTC(Bitcoin)-333?style=flat&logo=bitcoin) | ` bc1q6mrwzger8x6u83360syh4wgtrt5kpxthtunck0` 
+| ![ETH](https://img.shields.io/badge/-ETH(Ethereum)-333?style=flat&logo=ethereum) | `0xbFdFA9fa584267ae5EE23dbB8b20652cE40F30c0` 
+| ![USDT](https://img.shields.io/badge/-USDT(TRC20)-333?style=flat&logo=tether) | `TM6g778V53efNZ8zdoruiGaoF4viGVyYDt`  
+| ![SOL](https://img.shields.io/badge/-SOL(Solana)-333?style=flat&logo=solana) | `51wMQPkQjXPXdnsH1NXKnqC3V4MD47P6Xi3cM8eNYm6k`  
+| ![TON](https://img.shields.io/badge/-TON(TonCoin)-333?style=flat&logo=ton) | `UQC9G9Bm1Zc9vLavdNkiKYg18gSObk9atRv244CxFRAjPfwb`  
 
 
 ---
