@@ -81,8 +81,8 @@ Open to freelance projects, IT tasks, and cooperation. Glad to have a profession
 | Email : | [senchi.web@gmail.com](mailto:senchi.web@gmail.com) |  
 | Discord work talk : | [discord.gg/WXwBmnyM](https://discord.gg/WXwBmnyM) |   
 | Discord friendly chat : | [discord.gg/3hPC6FAU](https://discord.gg/3hPC6FAU) |     
-| Slack work talk : | [Slack work link](https://app.slack.com/huddle/T091JLF58AG/C091LF9WUC) |     
-| Slack friendly chat : | [Slack friendly link](https://app.slack.com/huddle/T091JLF58AG/C091B285BDZ) |     
+| Slack work talk : | [https://app.slack.com/huddle/T091JLF58AG/C091LF9WUC](https://app.slack.com/huddle/T091JLF58AG/C091LF9WUC) |     
+| Slack friendly chat : | [https://app.slack.com/huddle/T091JLF58AG/C091B285BDZ](https://app.slack.com/huddle/T091JLF58AG/C091B285BDZ) |     
 | Linkedin : | [linkedin.com/in/artem-python](https://www.linkedin.com/in/artem-python) |    
 | GitHub : | [github.com/ArtemKondratyuk](https://github.com/ArtemKondratyuk) |   
 
