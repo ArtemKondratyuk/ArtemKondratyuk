@@ -44,8 +44,8 @@ Open to freelance projects, IT tasks, and cooperation. Glad to have a profession
 
 ---
 
-| Soft Skills |  |  |
-|--------|--------|------------|
+| Soft Skills |  |  
+|-----------------|--------|
 |  Adaptability | I handle changes well, though I need a bit of time to adjust.  |
 |  Communication | I communicate easily and naturally, with humor when appropriate; I value genuine, live interaction.  | 
 |  Initiative | I notice opportunities for improvement and suggest ideas without being pushy.  |
