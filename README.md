@@ -24,7 +24,7 @@ Open to freelance projects, IT tasks, and cooperation. Glad to have a profession
 ## About Me
 
 – I write in Python — from small scripts to full-fledged tools with GUI and CLI.  
-– I'm learning DevOps: GitHub Actions, Docker, and CI/CD pipelines.  
+– I'm learning DevOps: GitHub Actions, and CI/CD pipelines.  
 – I'm developing my own projects and looking for freelance opportunities.  
 – Goals: become a professional Python developer, a proficient DevOps engineer, earn a stable income from freelancing, and join a strong, creative IT team.
 
